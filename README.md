@@ -1,4 +1,4 @@
 # KotlinBooks
 Kotlin Books
 
-![KotlinLogo](https://pbs.twimg.com/media/DD8nR1rXYAEmuUe.jpg)
+![KotlinActionCover](https://github.com/angebagui/KotlinBooks/blob/master/20170209_112611.jpeg)
